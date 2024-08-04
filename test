@@ -1,0 +1,26 @@
+def check_premium (Gender, birth year, Smoker):
+    if Gender==Male:
+        if birth year(1990:2000):
+           elif Smoker==yes:
+           print ('Your annual premium is Rs 35000')
+           else
+           print ('final discounted price-', return 35000-3500):
+        if birth year(1970:1990):
+           elif Smoker==yes:
+           print ('your premium is 40000')
+           else
+           print ('Your premium is', return 40000-5%):  
+    elif  Gender==Female:
+        if birth year(1990:2000):
+          elif Smoker==yes:
+          print ('Your annual premium is Rs 30000')
+          else
+          print ('final discounted price-', return 30000-3000'):
+        if birth year(1970:1990):
+          elif Smoker==yes:
+          print ('your annual premium is 35000")
+          else
+          print ('your premium is', return 35000-5%):
+    else
+    print ('You are not eligible'):
+    
